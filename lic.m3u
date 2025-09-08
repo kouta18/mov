@@ -1,4 +1,6 @@
 #EXTM3U
+
+ #EXTINF:-1, https://cdnst82.tokyvideo.com/videos/752/752429/mp4/786543bd47c5fce7bbe281baeac21342cb9838f839ba18bc8c655c84fec1f548.mp4?secure=ZG_9QLSTQH6yOH-DqdN0rw%3D%3D%2C1757460257
 #EXTINF:-1 tvg-logo="https://archive.org/download/Peliculas-wii/Peliculas-wii.thumbs/Cars%201_000001.jpg",CARS 1
 https://archive.org/download/Peliculas-wii/Cars%201.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/Peliculas-wii/Cuentos%20de%20Terramar.mp4", Ghibli Cuentos de Terramar
@@ -95,99 +97,189 @@ https://archive.org/download/Peliculas-wii/El%20recuerdo%20de%20Marnie.mp4
 
 #EXTINF:-1, s
 https://archive.org/download/Peliculas-wii/El%20regreso%20del%20gato.ia.mp4
+
+#EXTINF:-1,  regreso del gato
 https://archive.org/download/Peliculas-wii/El%20regreso%20del%20gato.mp4
+
+#EXTINF:-1, chihiro
 https://archive.org/download/Peliculas-wii/El%20viaje%20de%20Chihiro.ia.mp4
+
+#EXTINF:-1, viaje chihiro
 https://archive.org/download/Peliculas-wii/El%20viaje%20de%20Chihiro.mp4
+
+#EXTINF:-1,  elementos disney
 https://archive.org/download/Peliculas-wii/Elementos.ia.mp4
+#EXTINF:-1, elementos disney
 https://archive.org/download/Peliculas-wii/Elementos.mp4
+#EXTINF:-1, encanto
 https://archive.org/download/Peliculas-wii/Encanto.ia.mp4
+#EXTINF:-1, encanto
 https://archive.org/download/Peliculas-wii/Encanto.mp4
+#EXTINF:-1, garfield humanos1 
 https://archive.org/download/Peliculas-wii/Garfield%201.ia.mp4
+#EXTINF:-1, garfield live 1 
 https://archive.org/download/Peliculas-wii/Garfield%201.mp4
+#EXTINF:-1, garfield live 2
 https://archive.org/download/Peliculas-wii/Garfield%202.ia.mp4
+
+
+#EXTINF:-1, garfield live 2
 https://archive.org/download/Peliculas-wii/Garfield%202.mp4
+
+
+#EXTINF:-1, starwars han solo
 https://archive.org/download/Peliculas-wii/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.ia.mp4
+
+
+#EXTINF:-1, han solo starwar
 https://archive.org/download/Peliculas-wii/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
+
+
+#EXTINF:-1, intensamente
 https://archive.org/download/Peliculas-wii/Intensa-Mente%202.ia.mp4
+
+
+#EXTINF:-1, intensamente
 https://archive.org/download/Peliculas-wii/Intensa-Mente%202.mp4
+
+
+#EXTINF:-1, Ghibli kiki entregas domicilio
 https://archive.org/download/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.ia.mp4
+
+
+#EXTINF:-1,  kiki entregas domicilio brujita
 https://archive.org/download/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.mp4
+
+
+#EXTINF:-1,  oveja shaun
 https://archive.org/download/Peliculas-wii/La%20Oveja%20Shaun%20-%20La%20pelicula.ia.mp4
+
+#EXTINF:-1, oveja shaun
 https://archive.org/download/Peliculas-wii/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4
+
+#EXTINF:-1, mickey aventuras espacio
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Aventuras%20en%20el%20espacio.ia.mp4
+
+#EXTINF:-1, mickey aventuras espacio
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Aventuras%20en%20el%20espacio.mp4
+
+#EXTINF:-1, mickey daisy pastorcita
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Daisy%20la%20Pastorcita.ia.mp4
+
+#EXTINF:-1, daisy pastorcita
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Daisy%20la%20Pastorcita.mp4
+
+#EXTINF:-1, mickey donald la casa de mickey
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Donald%20incuba%20un%20huevo.ia.mp4
+
+
+#EXTINF:-1, casa de mickey incumadora
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Donald%20incuba%20un%20huevo.mp4
+
+
+#EXTINF:-1, mickey el arcoiris de minnie
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20arcoiris%20de%20Minnie.ia.mp4
+
+#EXTINF:-1, arcoiris de minnie
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20arcoiris%20de%20Minnie.mp4
+
+
+#EXTINF:-1, el capitan mickey casa 
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20capitan%20Mickey.ia.mp4
+
+#EXTINF:-1, casa de mickey capitan
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20capitan%20Mickey.mp4
+
+#EXTINF:-1, chef mickey
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20chef%20Goofy%20en%20accion.ia.mp4
+
+#EXTINF:-1, chef mickey
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20chef%20Goofy%20en%20accion.mp4
+
+#EXTINF:-1, concierto gran mickey
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20concierto%20de%20la%20gran%20banda%20de%20Mickey.ia.mp4
+
+#EXTINF:-1, mickey la banda
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20concierto%20de%20la%20gran%20banda%20de%20Mickey.mp4
+
+#EXTINF:-1, mickey pluto
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20cuento%20de%20Pluto.ia.mp4
+
+#EXTINF:-1, mickey pluto
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20cuento%20de%20Pluto.mp4
+
+#EXTINF:-1, mago dizz
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20mago%20de%20Dizz.ia.mp4
+
+#EXTINF:-1, mago dizz
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20mago%20de%20Dizz.mp4
+
+#EXTINF:-1, calendaro minnie
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20mousekecalendario%20de%20Minnie.ia.mp4
+
+#EXTINF:-1, calendario minnie
 https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20mousekecalendario%20de%20Minnie.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20muu-sical%20de%20Clarabella.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20muu-sical%20de%20Clarabella.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20parque%20de%20diversiones%20de%20Clarabella.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20parque%20de%20diversiones%20de%20Clarabella.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20rock%20de%20la%20casa%20de%20Mickey.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20El%20rock%20de%20la%20casa%20de%20Mickey.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Goofy%20el%20constructor.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Goofy%20el%20constructor.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20aventura%20en%20colores%20de%20Mickey.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20aventura%20en%20colores%20de%20Mickey.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20busqueda%20de%20las%20piezas%20de%20la%20casa%20de%20Mickey.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20busqueda%20de%20las%20piezas%20de%20la%20casa%20de%20Mickey.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20coleta%20de%20Daisy.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20coleta%20de%20Daisy.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20entrega%20especial%20para%20Donald.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20entrega%20especial%20para%20Donald.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20exhibicion%20de%20mo%C3%B1os%20de%20invierno%20de%20Minnie.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20exhibicion%20de%20mo%C3%B1os%20de%20invierno%20de%20Minnie.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20fiesta%20de%20te%20de%20Minnie%20Marciana.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20fiesta%20de%20te%20de%20Minnie%20Marciana.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20granja%20infantil%20de%20Goofy.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20La%20granja%20infantil%20de%20Goofy.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Lluvia%20para%20las%20flores%20de%20Minnie%20y%20Daisy.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Lluvia%20para%20las%20flores%20de%20Minnie%20y%20Daisy.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20en%20el%20pais%20de%20las%20maravillas.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20en%20el%20pais%20de%20las%20maravillas.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20y%20Donald%20tienen%20una%20granja.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20y%20Donald%20tienen%20una%20granja.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20y%20el%20huevo%20encantado.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Mickey%20y%20el%20huevo%20encantado.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Minnie%20Cienta.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Minnie%20Cienta.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Minnie%20la%20estrella%20pop.ia.mp4
-https://archive.org/download/Peliculas-wii/La%20casa%20de%20Mickey%20Mouse%20-%20Minnie%20la%20estrella%20pop.mp4
+
+#EXTINF:-1, colina las amapolas
 https://archive.org/download/Peliculas-wii/La%20colina%20de%20las%20Amapolas.ia.mp4
+
+#EXTINF:-1,  colina ampolas
 https://archive.org/download/Peliculas-wii/La%20colina%20de%20las%20Amapolas.mp4
+
+#EXTINF:-1,  aventura de lego  1
 https://archive.org/download/Peliculas-wii/La%20gran%20aventura%20Lego%201.ia.mp4
+
+#EXTINF:-1,  aventura lego 1
 https://archive.org/download/Peliculas-wii/La%20gran%20aventura%20Lego%201.mp4
+
+#EXTINF:-1, piglet winni pohh
 https://archive.org/download/Peliculas-wii/La%20gran%20pelicula%20de%20Piglet.ia.mp4
+
+#EXTINF:-1, puerquito winnie pohh
 https://archive.org/download/Peliculas-wii/La%20gran%20pelicula%20de%20Piglet.mp4
+
+#EXTINF:-1, stich disney
 https://archive.org/download/Peliculas-wii/La%20pelicula%20de%20Stitch.ia.mp4
+
+#EXTINF:-1, disney stich
 https://archive.org/download/Peliculas-wii/La%20pelicula%20de%20Stitch.mp4
+
+#EXTINF:-1, tigger 
 https://archive.org/download/Peliculas-wii/La%20pelicula%20de%20Tigger.ia.mp4
+
+#EXTINF:-1, tigger
 https://archive.org/download/Peliculas-wii/La%20pelicula%20de%20Tigger.mp4
+
+#EXTINF:-1, Ghibli mononoke
 https://archive.org/download/Peliculas-wii/La%20princesa%20Mononoke.ia.mp4
+
+#EXTINF:-1, Ghibli mononoke
 https://archive.org/download/Peliculas-wii/La%20princesa%20Mononoke.mp4
+
+#EXTINF:-1, tortuga roja
 https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.ia.mp4
+
+#EXTINF:-1, tortuga roja
 https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.mp4
+
+#EXTINF:-1, Ghibli tumba de las luciernagas
 https://archive.org/download/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.ia.mp4
+
+#EXTINF:-1, Ghibli tumba de las luciernagas
 https://archive.org/download/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.mp4
+
+#EXTINF:-1, winnie pohh 
 https://archive.org/download/Peliculas-wii/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.ia.mp4
+
+#EXTINF:-1, winnie pohh
 https://archive.org/download/Peliculas-wii/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4
+
+#EXTINF:-1, leroy y stich disney
 https://archive.org/download/Peliculas-wii/Leroy%20y%20Stitch.ia.mp4
+
+#EXTINF:-1, leroy y stich disney
 https://archive.org/download/Peliculas-wii/Leroy%20y%20Stitch.mp4
+
 https://archive.org/download/Peliculas-wii/Lightyear.ia.mp4
 https://archive.org/download/Peliculas-wii/Lightyear.mp4
 https://archive.org/download/Peliculas-wii/Lilo%20y%20Stitch%201.ia.mp4
@@ -259,6 +351,7 @@ https://archive.org/download/Peliculas-wii/Wish%20-%20El%20poder%20de%20los%20de
 https://archive.org/download/Peliculas-wii/Wish%20-%20El%20poder%20de%20los%20deseos.mp4
 https://archive.org/download/Peliculas-wii/_PWS%20HD%20-%20Animal%20Crossing%20La%20pelicula.ia.mp4
 https://archive.org/download/Peliculas-wii/_PWS%20HD%20-%20Animal%20Crossing%20La%20pelicula.mp4
+
 
 
 
