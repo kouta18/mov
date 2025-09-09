@@ -316,13 +316,15 @@ https://archive.org/download/Peliculas-wii/Mi%20vecino%20Totoro.ia.mp4
 
 #EXTINF:-1,  Ghibli mi vecino totorito 
 https://archive.org/download/Peliculas-wii/Mi%20vecino%20Totoro.mp4
-
+#EXTINF:-1, mickey cuento de navidad 1
+https://archive.org/download/pato-donald_202301/Mickey%20Mouse%20-%20El%20cuento%20de%20navidad%20de%20Mickey.mp4
 #EXTINF:-1,  mickey otra navidad
 https://archive.org/download/Peliculas-wii/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.ia.mp4
 
 #EXTINF:-1, mickey otra navidad 
 https://archive.org/download/Peliculas-wii/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4
-
+#EXTINF:-1,  dulce o truco halloween
+https://archive.org/download/pato-donald_202301/Pato%20Donald%20-%20Dulce%20o%20truco.mp4
 #EXTINF:-1, los tres mosqueteros disney
 https://archive.org/download/Peliculas-wii/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.ia.mp4
 
@@ -466,6 +468,10 @@ STRANGER TEMPORADA 4
 #EXTINF:-1, stranger temporada 4 capitulo 1 
 https://drive.google.com/file/d/1Hkf4vjRPxDBF9zQ1Xpo0RE5-CnT2vyJ7/view?usp=drive_link
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== CANAL 5 =====
+http://dummy
+#EXTINF:-1, CANAL 5 MX 
+http://104.238.205.28:8989/278329_.m3u8
 
 
 
