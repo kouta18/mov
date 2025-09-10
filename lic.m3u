@@ -480,7 +480,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1, Bob esponja pluto xD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
-
+#EXTINF:-1, pLUTO NAVIDAD 2 solo servira en navidad xD2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb40dd679cb120007306640/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1, pluto tv navidad pero solo servira en navidad xD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac638-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8346fb4c-9fd7-4cd0-b9f1-f5725d02e97a
 
@@ -520,6 +521,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
