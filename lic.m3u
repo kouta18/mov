@@ -490,19 +490,27 @@ http://dummy
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/love-hina-25-dvd-x-265-960x-720-flac/love-hina-25-dvd-x-265-960x-720-flac.thumbs/Love%20Hina%2004%20%5BDVD%20x265%20960x720%20FLAC%5D_000638.jpg" group-title="SEPARADOR", ===== PELIS PARTE 2 Posiblemente este repetido xD =====
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/love-hina-25-dvd-x-265-960x-720-flac/love-hina-25-dvd-x-265-960x-720-flac.thumbs/Love%20Hina%2004%20%5BDVD%20x265%20960x720%20FLAC%5D_000638.jpg" group-title="SEPARADOR", ===== PELIS PARTE 2  =====
 http://dummy
 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, ANGRY BIRDS 1  
+http://tvpremiumhd.club/lista-gratuita/183031/on/live.php?id=ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
+#EXTINF:-1, La Purga 1
+http://tvpremiumhd.club/lista-gratuita/183031/on/live.php?id=archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
+#EXTINF:-1, Jhonny english "mr bean" 1
+http://tvpremiumhd.club/lista-gratuita/183031/on/live.php?id=archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1, nextgen Netflix caricatura robot
+http://tvpremiumhd.club/lista-gratuita/183031/on/live.php?id=archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1, Nosotros los nobles 1 
+http://tvpremiumhd.club/lista-gratuita/183031/on/live.php?id=archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1, Zombies soy un heroe (no es el de willsmith es china)
+http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=8EA683CF68BF7443&resid=8EA683CF68BF7443%21105&authkey=ALflgM2k2puvuMo
+#EXTINF:-1, Lo que de verdad importa pelii
+http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=4E8775F59D59D879&resid=4E8775F59D59D879%21108&authkey=ALjUsq4tGo6QARk
+#EXTINF:-1, Libro de la selva 1
+http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=336D077DCE781B58&resid=336D077DCE781B58%21106&authkey=APet_MAGOGRASDQ
+#EXTINF:-1, Libro de la selva 2
+http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=336D077DCE781B58&resid=336D077DCE781B58%21105&authkey=AGuMNOsBtTILJWM
+#EXTINF:-1, Tierra de osos 1
+http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=EBF08BF4C3AAE638&resid=EBF08BF4C3AAE638%21106&authkey=AFE2DXRWrf_yPlY
 
