@@ -8,7 +8,6 @@ https://cdnst82.tokyvideo.com/videos/752/752520/mp4/a984b53c928d05ed302d855d7a7e
 https://cdnst82.tokyvideo.com/videos/752/752429/mp4/786543bd47c5fce7bbe281baeac21342cb9838f839ba18bc8c655c84fec1f548.mp4?secure=ZG_9QLSTQH6yOH-DqdN0rw%3D%3D%2C1757460257
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== TELEVISION VARIADA=====
 http://dummy
 #EXTINF:-1, CANAL 5 MX 
@@ -23,6 +22,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f80007
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb40dd679cb120007306640/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1, pluto tv navidad pero solo servira en navidad xD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac638-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8346fb4c-9fd7-4cd0-b9f1-f5725d02e97a
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eeb06c226acc25e1495ef0f80d0533f4.png" group-title="Latino",LA: Disney Channel
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3025
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== PELIS  =====
 http://dummy
 
@@ -529,6 +534,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
