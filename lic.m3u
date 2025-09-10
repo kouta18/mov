@@ -1,13 +1,37 @@
 #EXTM3U
-#EXTINF:-1, DEL POP GUERRERAS JEJE
-https://cdnst82.tokyvideo.com/videos/752/752429/mp4/786543bd47c5fce7bbe281baeac21342cb9838f839ba18bc8c655c84fec1f548.mp4?secure=ZG_9QLSTQH6yOH-DqdN0rw%3D%3D%2C1757460257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== PELIS DE ESTRENO O QUE YO QUIERO AQUI XD=====
+http://dummy
 #EXTINF:-1, Guerreras del K-POP
 https://cdnst82.tokyvideo.com/videos/752/752520/mp4/a984b53c928d05ed302d855d7a7e46bf1f56a0a1e689ec018c07c1349b37d70f.mp4?secure=7ZjpquneVmLzgLROSSRQAg%3D%3D%2C1757548926
-#EXTINF:-1 tvg-logo="https://archive.org/download/Peliculas-wii/Peliculas-wii.thumbs/Cars%201_000001.jpg",CARS 1
-https://archive.org/download/Peliculas-wii/Cars%201.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/Peliculas-wii/Cuentos%20de%20Terramar.mp4", Ghibli Cuentos de Terramar
 
+#EXTINF:-1, DEL POP GUERRERAS con falla
+https://cdnst82.tokyvideo.com/videos/752/752429/mp4/786543bd47c5fce7bbe281baeac21342cb9838f839ba18bc8c655c84fec1f548.mp4?secure=ZG_9QLSTQH6yOH-DqdN0rw%3D%3D%2C1757460257
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== CANAL 5 =====
+http://dummy
+#EXTINF:-1, CANAL 5 MX 
+http://104.238.205.28:8989/278329_.m3u8
+#EXTINF:-1, hey arnold 90s 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
+#EXTINF:-1, CANAL 7 MX
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1, Bob esponja pluto xD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
+#EXTINF:-1, pLUTO NAVIDAD 2 solo servira en navidad xD2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb40dd679cb120007306640/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1, pluto tv navidad pero solo servira en navidad xD
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac638-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8346fb4c-9fd7-4cd0-b9f1-f5725d02e97a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== PELIS  =====
+http://dummy
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/Peliculas-wii/Peliculas-wii.thumbs/Cars%201_000001.jpg", CARS 1
+https://archive.org/download/Peliculas-wii/Cars%201.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/Peliculas-wii/Cuentos%20de%20Terramar.mp4", Ghibli Cuentos de Terramar
 https://archive.org/download/Peliculas-wii/Cuentos%20de%20Terramar.mp4
+
 #EXTINF:-1, Animal Crossing La pelicula
 https://archive.org/download/Peliculas-wii/Animal%20Crossing%20La%20pelicula.ia.mp4
 
@@ -56,7 +80,7 @@ https://archive.org/download/Peliculas-wii/Club%20de%20los%20Villanos%20de%20Mic
 #EXTINF:-1, mickey villanos
 https://archive.org/download/Peliculas-wii/Club%20de%20los%20Villanos%20de%20Mickey%20Mouse.mp4
 
-<#EXTINF:-1, Ghibli Cuentos de Terramar
+#EXTINF:-1, Ghibli Cuentos de Terramar
 https://archive.org/download/Peliculas-wii/Cuentos%20de%20Terramar.ia.mp4
 
 #EXTINF:-1,  ET EXTRATERRESTRE
@@ -470,22 +494,6 @@ STRANGER TEMPORADA 4
 #EXTINF:-1, stranger temporada 4 capitulo 1 
 https://drive.google.com/file/d/1Hkf4vjRPxDBF9zQ1Xpo0RE5-CnT2vyJ7/view?usp=drive_link
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== CANAL 5 =====
-http://dummy
-#EXTINF:-1, CANAL 5 MX 
-http://104.238.205.28:8989/278329_.m3u8
-#EXTINF:-1, hey arnold 90s 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
-#EXTINF:-1, CANAL 7 MX
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1, Bob esponja pluto xD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
-#EXTINF:-1, pLUTO NAVIDAD 2 solo servira en navidad xD2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb40dd679cb120007306640/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1, pluto tv navidad pero solo servira en navidad xD
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac638-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8346fb4c-9fd7-4cd0-b9f1-f5725d02e97a
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/love-hina-25-dvd-x-265-960x-720-flac/love-hina-25-dvd-x-265-960x-720-flac.thumbs/Love%20Hina%2004%20%5BDVD%20x265%20960x720%20FLAC%5D_000638.jpg" group-title="SEPARADOR", ===== este seria para stranger things xD pendiente aun no lo suboP =====
 http://dummy
 
@@ -521,6 +529,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
