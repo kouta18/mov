@@ -493,8 +493,7 @@ http://dummy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/love-hina-25-dvd-x-265-960x-720-flac/love-hina-25-dvd-x-265-960x-720-flac.thumbs/Love%20Hina%2004%20%5BDVD%20x265%20960x720%20FLAC%5D_000638.jpg" group-title="SEPARADOR", ===== PELIS PARTE 2 Posiblemente este repetido xD =====
 http://dummy
 
-#EXTINF:-1,101 DALMATAS (1961)
-http://iptvcanales.com/xw/pinfantiles.php?movie=001
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
 
