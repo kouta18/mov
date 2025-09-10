@@ -13,7 +13,7 @@ http://dummy
 #EXTINF:-1, CANAL 5 MX 
 http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1, hey arnold 90s 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=web&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=web&userId=&serverSideAds=true
 #EXTINF:-1, CANAL 7 MX
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1, Bob esponja pluto xD
@@ -23,12 +23,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb40dd679cb1200073066
 #EXTINF:-1, pluto tv navidad pero solo servira en navidad xD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac638-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8346fb4c-9fd7-4cd0-b9f1-f5725d02e97a
 
-#EXTINF:-1, LA: Disney Channel 1
-http://usuarios.club/usuarios/src2/DISNEY_HD/demoUwD/OV0.m3u8
-#EXTINF:-1, LA: Disney Channel 2
-http://usuarios.club/usuarios/src2/DISNEY_HD/demoUwD/OV0.m3u8
-#EXTINF:-1, LA: Disney Channel 3
-http://usuarios.club/usuarios/src1/DisneyXD/demoUwD/OV0.m3u8
+#EXTINF:-1, LA: History de pluto tv 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="plutotv.rugrats" tvg-logo="https://images.pluto.tv/channels/64ed4a711f1f200008b6a8de/colorLogoPNG.png" group-title="Infantiles", Rugrats Aventuras en Pañales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64ed4a711f1f200008b6a8de/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
+
+#EXTINF:-1 tvg-id="plutotv.nickclassics" tvg-logo="https://images.pluto.tv/channels/64f0f2b98f17c000085fc2b4/colorLogoPNG.png" group-title="Infantiles", Nick Clásico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64f0f2b98f17c000085fc2b4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
+
+#EXTINF:-1 tvg-id="plutotv.catdog" tvg-logo="https://images.pluto.tv/channels/64ed4b1a86a3530008ec1e94/colorLogoPNG.png" group-title="Infantiles", CatDog
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64ed4b1a86a3530008ec1e94/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
+
+#EXTINF:-1 tvg-id="plutotv.looneytunes" tvg-logo="https://images.pluto.tv/channels/608c61df1fddef001a9e9cf0/colorLogoPNG.png" group-title="Infantiles", Looney Tunes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608c61df1fddef001a9e9cf0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
+#EXTINF:-1 tvg-id="plutotv.peliculasestrenos" tvg-logo="https://images.pluto.tv/channels/5f3566f4f92c5a00071459e2/colorLogoPNG.png" group-title="Películas", Pluto TV Películas de Estrenos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3566f4f92c5a00071459e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
+
 
 
 
@@ -538,6 +548,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
