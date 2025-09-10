@@ -1,5 +1,5 @@
 #EXTM3U
-#--------TEST------
+# Canales de TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== PELIS DE ESTRENO O QUE YO QUIERO AQUI XD=====
 http://dummy
 #EXTINF:-1, Guerreras del K-POP
@@ -534,6 +534,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
