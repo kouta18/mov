@@ -23,8 +23,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb40dd679cb1200073066
 #EXTINF:-1, pluto tv navidad pero solo servira en navidad xD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac638-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8346fb4c-9fd7-4cd0-b9f1-f5725d02e97a
 
-#EXTINF:-1, LA: Disney Channel
-http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3025
+#EXTINF:-1, LA: Disney Channel 1
+http://usuarios.club/usuarios/src2/DISNEY_HD/demoUwD/OV0.m3u8
+#EXTINF:-1, LA: Disney Channel 2
+http://usuarios.club/usuarios/src2/DISNEY_HD/demoUwD/OV0.m3u8
+#EXTINF:-1, LA: Disney Channel 3
+http://usuarios.club/usuarios/src1/DisneyXD/demoUwD/OV0.m3u8
 
 
 
@@ -534,6 +538,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
