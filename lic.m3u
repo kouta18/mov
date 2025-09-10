@@ -25,21 +25,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 
 #EXTINF:-1, LA: History de pluto tv 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="plutotv.rugrats" tvg-logo="https://images.pluto.tv/channels/64ed4a711f1f200008b6a8de/colorLogoPNG.png" group-title="Infantiles", Rugrats Aventuras en Pañales
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64ed4a711f1f200008b6a8de/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
-
-#EXTINF:-1 tvg-id="plutotv.nickclassics" tvg-logo="https://images.pluto.tv/channels/64f0f2b98f17c000085fc2b4/colorLogoPNG.png" group-title="Infantiles", Nick Clásico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64f0f2b98f17c000085fc2b4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
-
-#EXTINF:-1 tvg-id="plutotv.catdog" tvg-logo="https://images.pluto.tv/channels/64ed4b1a86a3530008ec1e94/colorLogoPNG.png" group-title="Infantiles", CatDog
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64ed4b1a86a3530008ec1e94/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
-
-#EXTINF:-1 tvg-id="plutotv.looneytunes" tvg-logo="https://images.pluto.tv/channels/608c61df1fddef001a9e9cf0/colorLogoPNG.png" group-title="Infantiles", Looney Tunes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608c61df1fddef001a9e9cf0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
-#EXTINF:-1 tvg-id="plutotv.peliculasestrenos" tvg-logo="https://images.pluto.tv/channels/5f3566f4f92c5a00071459e2/colorLogoPNG.png" group-title="Películas", Pluto TV Películas de Estrenos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3566f4f92c5a00071459e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=web&serverSideAds=true
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SEPARADOR", ===== PELIS  =====
@@ -548,6 +533,7 @@ http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=DB4700E04F34F323&re
 #EXTINF:-1, Hombres de negro 3
 http://tvpremiumhd.club/lista-gratuita/183031/on/vod.php?cid=CEE93EBA99B06CFF&resid=CEE93EBA99B06CFF%21105&authkey=ACbjy8uERWkAPmU
 #EXTINF:-1, Hombres de negro 3
+
 
 
 
